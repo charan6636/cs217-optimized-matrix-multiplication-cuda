@@ -1,4 +1,4 @@
-# cs2217-optimized-matrix-multiplication-cuda
+# cs217-optimized-matrix-multiplication-cuda
 Using Unified Memory and CUDA streams
 #Total number of files included:
 1. Unifed memory
